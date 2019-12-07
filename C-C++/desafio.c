@@ -33,10 +33,16 @@ int main(){
 	
 	//editando aluno
 	int p = verificaMat(matricula,alunos,qtd);
-	editarAluno(p,alunos);
+	if(p!=-1){
+		editarAluno(p,alunos);
+		//escrevendo arquivo
+		escreverArquivo(arq,qtd,alunos);	
+	}else{
+		printf("Matricula nao encontrada!\n");
+	}
 	
-	//escrevendo arquivo
-	escreverArquivo(arq,qtd,alunos);
+	
+	
 	
 	
 	
