@@ -1,0 +1,5 @@
+Carlos 10.0 120
+Jose 20.0 110
+Chico 5.0 100
+Alex 40.0 105
+Marcos 15.5 100
