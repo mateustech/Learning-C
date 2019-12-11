@@ -7,7 +7,7 @@ struct aluno
 	float notas[3];
 };
 typedef struct aluno Aluno;
-
+//struct de aluno
 void lerEstrutura(Aluno *alunos,int tam,FILE *arq);
 int verificaMat(int matricula, Aluno * alunos, int qtd);
 void editarAluno(int p, Aluno * alunos);
