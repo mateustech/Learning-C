@@ -6,6 +6,7 @@ struct aluno
 	int matricula;
 	float notas[3];
 };
+//testando
 typedef struct aluno Aluno;
 //struct de aluno
 void lerEstrutura(Aluno *alunos,int tam,FILE *arq);
