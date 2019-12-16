@@ -3,4 +3,4 @@ C é uma linguagem de programação compilada de propósito geral, estruturada, 
 
 C é uma das linguagens de programação mais populares e existem poucas arquiteturas para as quais não existem compiladores para C. C tem influenciado muitas outras linguagens de programação (por exemplo, a linguagem Java), mais notavelmente C++, que originalmente começou como uma extensão para C.
 
-Questões de Ordenações, Buscas, Alocação Dinánima e Arquivos Texto e Binário.
+Questões de Ordenações, Buscas, Alocação Dinámica e Arquivos Texto e Binário.
