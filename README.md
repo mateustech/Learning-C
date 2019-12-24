@@ -5,4 +5,5 @@ C é uma das linguagens de programação mais populares e existem poucas arquite
 
 Questões de Ordenações, Buscas, Alocação Dinámica e Arquivos Texto e Binário.
 
-<img src='https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png' width='150px'></img>
+<img src='https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png' width='200px'></img>
+<img src='https://img2.gratispng.com/20180418/glq/kisspng-the-c-programming-language-computer-programming-programming-5ad7395d4c2638.9232807315240543653119.jpg' width='200px'></img>
